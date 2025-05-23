@@ -110,6 +110,7 @@ HydraSense Automation is a smart home automation project that **automatically mo
 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag/AuraSense-IOT-ESP-1)  
 **Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)  
 **LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)
+
 Contributions and suggestions are welcome! Feel free to fork, improve, and send pull requests. 
 
 ---
