@@ -4,7 +4,7 @@
   Here I have connected the Relay with a Solenoid water Valve which turns on when the water level falls down.
   This Project has Proper Start and Stop MEchanism to avoid Spillage in case of any misshap ..!!
   Name: Aniket Chowdhury [Hashtag]
-  Email: micro.aniket@example.com
+  Email: micro.aniket@gmail.com
   GitHub: https://github.com/itzzhashtag
   Instagram: https://instagram.com/itzz_hashtag
   LinkedIn: https://www.linkedin.com/in/itzz-hashtag/
