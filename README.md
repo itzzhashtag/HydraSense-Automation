@@ -5,7 +5,7 @@
 
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/hydrasense-automation?style=social) ![GitHub forks](https://img.shields.io/github/forks/yourusername/hydrasense-automation?style=social) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
 
