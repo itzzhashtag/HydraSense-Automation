@@ -11,9 +11,7 @@ Please make sure to **change the placeholder values and data variables** in the 
 
 For your convenience, I have added comments indicating the exact **line numbers where changes are needed**.  
 Look for lines like this in the code: 37, 38, 40
-
-``c
-
+ 
 ---
 
 [License](https://img.shields.io/badge/license-MIT-blue.svg)
