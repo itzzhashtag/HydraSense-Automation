@@ -105,15 +105,11 @@ HydraSense Automation is a smart home automation project that **automatically mo
 
 ## 👤 Author & Contact
 
-**Name:** Aniket Chowdhury (aka Hashtag)  
-**Email:** micro.aniket@example.com  
-**GitHub:** [itzzhashtag](https://github.com/itzzhashtag/AuraSense-IOT-ESP-1)  
-**Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)  
-**LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)
-
-Contributions and suggestions are welcome! Feel free to fork, improve, and send pull requests. 
-
----
+👨 **Name:** Aniket Chowdhury (aka Hashtag)  
+📧 **Email:** [micro.aniket@gmail.com](mailto:micro.aniket@gmail.com)  
+💼 **LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)  
+🐙 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
+📸 **Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)
 
 ---
 
