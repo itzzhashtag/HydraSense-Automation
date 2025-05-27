@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-**Smart Water-Level Monitoring & Automated Refill System for Humidifiers**  
+Smart Water-Level Monitoring & Automated Refill System for Humidifiers  
 Powered by Ultrasonic Sensor, Relay, OLED Display & NeoPixel LEDs  
 </div>
 
