@@ -1,4 +1,13 @@
 # 🚰 HydraSense Automation
+**by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
+
+<img src="https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge&logo=arduino" alt="Status Badge" />
+<img src="https://img.shields.io/badge/Built%20with-Arduino-blue?style=for-the-badge&logo=arduino" alt="Arduino Badge" />
+<img src="https://img.shields.io/badge/License-Personal--Use-orange?style=for-the-badge" alt="License Badge" />
+
+</div>
+
+---
 
 > **Smart Water-Level Monitoring & Automated Refill System for Humidifiers**  
 > Powered by Ultrasonic Sensor, Relay, OLED Display & NeoPixel LEDs  
